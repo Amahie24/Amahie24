@@ -29,7 +29,7 @@ This project simulated a professional internal IT audit for Botium Toys, a ficti
 
 ### Step 1: Review of Scope, Goals, and Risk Report  
 Reviewed Botium Toys’ infrastructure, existing assets (IT systems, physical site, data), and current compliance status.  
-📄 [Audit Scope & Risk Report (PDF)](https://github.com/amahiemlewis/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
+📄 [Audit Scope & Risk Report (PDF)](https://github.com/Amahie24/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
 
 ---
 
@@ -39,7 +39,7 @@ Analyzed whether core security controls were in place, such as:
 - Antivirus/firewall usage
 - IDS deployment
 - Password and backup policies  
-📋 [Controls and Compliance Checklist (PDF)](https://github.com/amahiemlewis/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Controls%20and%20Compliance%20Checklist.pdf)
+📋 [Control Categories (PDF)](https://github.com/Amahie24/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Control%20categories.pdf)
 
 ---
 
@@ -53,7 +53,7 @@ Checked alignment with key frameworks and laws:
 
 ### Step 4: Reference and Support Material  
 Used this document to understand and classify each control by category (Technical, Administrative, Physical) and type (Preventative, Detective, Corrective, Deterrent).  
-📘 [Control Categories (PDF)](https://github.com/amahiemlewis/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Control%20categories.pdf)
+📘 [Controls and Compliance Checklist (PDF)](https://github.com/Amahie24/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Controls%20and%20Compliance%20Checklist.pdf)
 
 ---
 
