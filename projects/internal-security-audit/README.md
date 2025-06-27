@@ -39,7 +39,7 @@ Analyzed whether core security controls were in place, such as:
 - Antivirus/firewall usage
 - IDS deployment
 - Password and backup policies  
-📋 [Control Categories (PDF)](https://github.com/Amahie24/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Control%20categories.pdf)
+📋 [Control Categories (PDF)](https://github.com/Amahie24/Amahie24/blob/main/projects/internal-security-audit/Control%20categories.pdf)
 
 ---
 
@@ -53,7 +53,7 @@ Checked alignment with key frameworks and laws:
 
 ### Step 4: Reference and Support Material  
 Used this document to understand and classify each control by category (Technical, Administrative, Physical) and type (Preventative, Detective, Corrective, Deterrent).  
-📘 [Controls and Compliance Checklist (PDF)](https://github.com/Amahie24/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Controls%20and%20Compliance%20Checklist.pdf)
+📘 [Controls and Compliance Checklist (PDF)](https://github.com/Amahie24/Amahie24/blob/main/projects/internal-security-audit/Controls%20and%20Compliance%20Checklist.pdf)
 
 ---
 
