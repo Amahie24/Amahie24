@@ -39,7 +39,7 @@ Analyzed whether core security controls were in place, such as:
 - Antivirus/firewall usage
 - IDS deployment
 - Password and backup policies  
-📋 [Control Categories (PDF)](https://github.com/Amahie24/Amahie24/blob/main/projects/internal-security-audit/Control%20categories.pdf)
+📋 [Control Categories (PDF)]([https://github.com/Amahie24/Amahie24/blob/main/projects/internal-security-audit/Control%20categories.pdf)
 
 ---
 
