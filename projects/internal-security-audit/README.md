@@ -29,7 +29,7 @@ This project simulated a professional internal IT audit for Botium Toys, a ficti
 
 ### Step 1: Review of Scope, Goals, and Risk Report  
 Reviewed Botium Toys’ infrastructure, existing assets (IT systems, physical site, data), and current compliance status.  
-📄 [Audit Scope & Risk Report (PDF)](https://github.com/Amahie24/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
+📄 [Audit Scope & Risk Report (PDF)](https://github.com/Amahie24/Amahie24/blob/main/projects/internal-security-audit/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
 
 ---
 
