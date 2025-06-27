@@ -37,5 +37,4 @@ Conducted a simulated internal security audit for a fictional company, *Botium T
 - Achieved a score of 80%+ on audit evaluation  
 ---
 
-> ⚡ Let’s connect: I’m open to internships, entry-level roles, and collaborative security projects. Feel free to check out my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/amahiemlewis)
-
+> ⚡ Let’s connect: I’m open to internships, entry-level roles, and collaborative security projects. Feel free to check out my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
