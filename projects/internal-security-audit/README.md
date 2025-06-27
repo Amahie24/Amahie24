@@ -2,91 +2,68 @@
 
 ## Objective
 
-This project simulated a professional internal IT audit for Botium Toys, a fictional company facing new cybersecurity challenges as it expands online. The audit focused on identifying existing assets, reviewing control implementation, and checking for compliance with standards such as PCI DSS, GDPR, and SOC Type 1/2 using the **NIST Cybersecurity Framework (CSF)**.
-
-The goal was to assess risks and suggest security improvements to support the organization’s business continuity and regulatory compliance.
+This project simulated a professional internal IT audit for Botium Toys, a fictional company facing cybersecurity risks as it expands its online presence. The audit focused on identifying existing assets, evaluating security controls, and checking compliance using the **NIST Cybersecurity Framework (CSF)**. The goal was to assess risks and suggest improvements to enhance the organization’s security posture and business continuity.
 
 ---
 
 ### 🧠 Skills Learned
 
-- Internal security auditing using industry frameworks (NIST CSF)
-- Interpreting risk assessment documentation
-- Applying administrative, technical, and physical controls
-- Evaluating compliance with global standards like PCI DSS and GDPR
-- Documenting findings and recommendations in a clear audit checklist
-- Understanding of real-world control types (preventative, corrective, detective, deterrent)
+- Internal security auditing using NIST CSF
+- Performing risk analysis and reviewing audit scope
+- Completing and evaluating control & compliance checklists
+- Identifying gaps in physical, technical, and administrative controls
+- Writing professional audit summaries and recommendations
 
 ---
 
 ### 🛠️ Tools and Resources Used
 
-- **Botium Toys Scope & Risk Assessment Report** (provided)
-- **Controls & Compliance Checklist** (self-assessed)
-- **Control Categories Reference** (based on NIST and best practices)
-- Manual assessment, logic-based review, and report writing
+- **Risk Assessment Report**  
+- **Controls & Compliance Checklist**  
+- **Control Categories Guide (based on NIST)**  
+- Manual reasoning and documentation (self-assessment based)
 
 ---
 
 ## 🪜 Project Steps
 
-### Step 1: Scope and Goals Review
-Reviewed Botium Toys’ audit scope: their entire IT security program. Goals included evaluating assets (equipment, network, data, etc.) and checking for necessary controls and compliance with global regulations.
-
-📄 Reference: [Audit Scope & Risk Report (PDF)](https://github.com/amahiemlewis/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
-
----
-
-### Step 2: Risk Analysis
-Analyzed risks such as open access to customer data, lack of encryption, weak password policy, no disaster recovery plan, and missing IDS system.
-
-🟡 **Risk Score: 8/10**  
-💡 **Impact:** High likelihood of data loss, regulatory fines, or business disruption.
+### Step 1: Review of Scope, Goals, and Risk Report  
+Reviewed Botium Toys’ infrastructure, existing assets (IT systems, physical site, data), and current compliance status.  
+📄 [Audit Scope & Risk Report (PDF)](https://github.com/amahiemlewis/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
 
 ---
 
-### Step 3: Control Assessment
-Used the provided checklist to assess whether each security control was implemented, from firewalls and antivirus software to physical controls like locks and CCTV.
-
-📋 Reference: [Completed Audit Checklist (PDF)](../Internal_Security_Audit_Checklist.pdf)
-
----
-
-### Step 4: Compliance Evaluation
-Reviewed alignment with:
-- **PCI DSS** (credit card protection)
-- **GDPR** (EU data protection)
-- **SOC** (data integrity and access policies)
-
-Flagged gaps like lack of encryption, no access restrictions, and missing privacy procedures.
+### Step 2: Control Assessment  
+Analyzed whether core security controls were in place, such as:
+- Least privilege access
+- Antivirus/firewall usage
+- IDS deployment
+- Password and backup policies  
+📋 [Controls and Compliance Checklist (PDF)](https://github.com/amahiemlewis/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Controls%20and%20Compliance%20Checklist.pdf)
 
 ---
 
-### Step 5: Recommendations (Summary)
-- Implement **least privilege access** and **separation of duties**
-- Upgrade password policies and enforce with centralized management
-- Introduce **encryption for stored and transmitted credit card data**
-- Deploy an **Intrusion Detection System (IDS)**
-- Establish a **disaster recovery plan** with regular backups
-- Enforce **EU breach notification policies** and improve documentation
+### Step 3: Compliance Review  
+Checked alignment with key frameworks and laws:
+- **PCI DSS**: Cardholder data security
+- **GDPR**: EU data protection and notification
+- **SOC**: Confidentiality, integrity, and availability of systems
+
+---
+
+### Step 4: Reference and Support Material  
+Used this document to understand and classify each control by category (Technical, Administrative, Physical) and type (Preventative, Detective, Corrective, Deterrent).  
+📘 [Control Categories (PDF)](https://github.com/amahiemlewis/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Control%20categories.pdf)
 
 ---
 
 ## ✅ Outcome
 
-- Achieved a passing score of **80%+**
-- Gained practical experience conducting internal audits
-- Demonstrated ability to assess controls and provide professional, standards-based recommendations
-- Learned how to document and present cybersecurity findings clearly
+- Scored **80%+** on the internal audit activity
+- Developed practical experience with real-world cybersecurity audit frameworks
+- Learned to document findings, assess risks, and recommend improvements
+- Built a project suitable for professional cybersecurity portfolios
 
 ---
 
-## 📂 Files
-
-- [📄 Audit Scope & Risk Report](../Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
-- [📋 Internal Audit Checklist (Filled)](../Internal_Security_Audit_Checklist.pdf)
-- [📘 Control Categories Reference](../Control%20categories.odt)
-
----
-
-> Want to see more? [Visit my main GitHub profile](https://github.com/amahiemlewis) or connect with me on [LinkedIn](https://www.linkedin.com/in/amahiemlewis).
+> 🔗 [Return to main profile](https://github.com/amahiemlewis) | [Connect with me on LinkedIn](https://www.linkedin.com/in/amahiemlewis)
