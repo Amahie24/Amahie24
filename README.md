@@ -14,7 +14,7 @@ My journey in tech started with a passion for problem-solving and ethical comput
 
 | Skill | Associated Project |
 |-------|--------------------|
-|Security Auditing | [Internal Security Audit – Botium Toys](#internal-security-audit--botium-toys)
+|Security Auditing | [Internal Security Audit – Botium Toys](https://github.com/Amahie24/Amahie24/tree/main/projects/internal-security-audit)
 
 ---
 
