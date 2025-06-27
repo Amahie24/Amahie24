@@ -33,7 +33,7 @@ The goal was to assess risks and suggest security improvements to support the or
 ### Step 1: Scope and Goals Review
 Reviewed Botium Toys’ audit scope: their entire IT security program. Goals included evaluating assets (equipment, network, data, etc.) and checking for necessary controls and compliance with global regulations.
 
-📄 Reference: [Scope & Risk Assessment Report (PDF)](../Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
+📄 Reference: [Audit Scope & Risk Report (PDF)](https://github.com/amahiemlewis/cybersecurity-portfolio/blob/main/projects/internal-security-audit/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
 
 ---
 
