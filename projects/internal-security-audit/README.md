@@ -66,4 +66,4 @@ Used this document to understand and classify each control by category (Technica
 
 ---
 
-> 🔗 [Return to main profile](https://github.com/amahiemlewis) | [Connect with me on LinkedIn](https://www.linkedin.com/in/amahiemlewis)
+> 🔗 [Return to main profile](https://github.com/Amahie24) | [Connect with me on LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
