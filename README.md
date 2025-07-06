@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Amahie Lewis
-<a href = "https://www.linkedin.com/in/amahie-lewis-2a1288292/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?$style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amahie-lewis-2a1288292/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 I'm a third-year Computer Science student at Georgia State University with a growing specialization in cybersecurity.
 ---
@@ -15,7 +17,7 @@ My journey in tech started with a passion for problem-solving and ethical comput
 | Skill | Associated Project |
 |-------|--------------------|
 |Security Auditing | [Internal Security Audit – Botium Toys](https://github.com/Amahie24/Amahie24/tree/main/projects/internal-security-audit)
-|Network Analysis | [DNS Traffic Analysis Incident Report](https://github.com/Amahie24/Amahie24/blob/main/projects/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
+| Network Analysis | [DNS Traffic Analysis Incident Report](https://github.com/Amahie24/Amahie24/tree/main/projects/dns-incident-report) |
 
 ---
 
@@ -28,9 +30,14 @@ My journey in tech started with a passion for problem-solving and ethical comput
 
 ## 📂 Projects
 
-### DNS Traffic Analysis Incident Report
+### 🛰️ DNS Traffic Analysis Incident Report
 **Course-Based Simulation**
-
+As a cybersecurity analyst at a company specializing in IT services, I was tasked with investigating a critical issue: several customers reported they couldn’t access the client’s website, **www.yummyrecipesforme.com**, receiving the error **“destination port unreachable.”**
+- Captured and analyzed network traffic using `tcpdump`
+- Identified protocol-specific failures and interpreting ICMP errors  
+- Documented incidents clearly and professionally for escalation  
+- Understood the relationship between DNS resolution, UDP, and ICMP protocols
+---
 
 ### 🛡️ Internal Security Audit – Botium Toys  
 **Course-Based Simulation**  
