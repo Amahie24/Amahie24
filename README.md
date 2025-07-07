@@ -44,7 +44,7 @@ Investigated customer-reported website access issues by capturing and analyzing 
 **Course-Based Simulation**  
 
 Conducted a simulated internal security audit for fictional company Botium Toys. Assessed organizational security using the NIST Cybersecurity Framework, completed a detailed controls checklist, and documented findings in a professional-style audit report.  
-📄 View full project here
+[📄 View full project here](https://github.com/Amahie24/Amahie24/blob/main/projects/internal-security-audit/README.md)
 
 ---
 
