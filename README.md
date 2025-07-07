@@ -32,21 +32,19 @@ My journey in tech started with a passion for problem-solving and ethical comput
 
 ### 🛰️ DNS Traffic Analysis Incident Report
 **Course-Based Simulation**
-As a cybersecurity analyst at a company specializing in IT services, I was tasked with investigating a critical issue: several customers reported they couldn’t access the client’s website, **www.yummyrecipesforme.com**, receiving the error **“destination port unreachable.”**
-- Captured and analyzed network traffic using `tcpdump`
-- Identified protocol-specific failures and interpreting ICMP errors  
-- Documented incidents clearly and professionally for escalation  
-- Understood the relationship between DNS resolution, UDP, and ICMP protocols
+
+Investigated customer-reported website access issues by capturing and analyzing DNS and ICMP network traffic with tcpdump. Identified DNS resolution failures due to unreachable UDP port 53 and documented findings in a professional incident report.
+[📄 View full project here](https://github.com/Amahie24/Amahie24/tree/main/projects/dns-incident-report)
+
+
 ---
 
 ### 🛡️ Internal Security Audit – Botium Toys  
 **Course-Based Simulation**  
-Conducted a simulated internal security audit for a fictional company, *Botium Toys*, as part of a hands-on course activity.  
-- Assessed organizational security posture using the NIST Cybersecurity Framework  
-- Completed a detailed controls and compliance checklist  
-- Evaluated risks to assets, customers, and internal operations  
-- Documented and reported findings as part of a professional-style audit  
-- Achieved a score of 80%+ on audit evaluation  
+
+Conducted a simulated internal security audit for fictional company Botium Toys. Assessed organizational security using the NIST Cybersecurity Framework, completed a detailed controls checklist, and documented findings in a professional-style audit report.  
+📄 View full project here
+
 ---
 
 > ⚡ Let’s connect: I’m open to internships, entry-level roles, and collaborative security projects. Feel free to check out my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
