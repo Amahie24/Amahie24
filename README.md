@@ -34,6 +34,7 @@ My journey in tech started with a passion for problem-solving and ethical comput
 **Course-Based Simulation**
 
 Investigated customer-reported website access issues by capturing and analyzing DNS and ICMP network traffic with tcpdump. Identified DNS resolution failures due to unreachable UDP port 53 and documented findings in a professional incident report.
+
 [📄 View full project here](https://github.com/Amahie24/Amahie24/tree/main/projects/dns-incident-report)
 
 
