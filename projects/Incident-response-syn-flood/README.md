@@ -53,5 +53,5 @@ Used Wireshark logs to trace TCP connection attempts from multiple IPs. Discover
 
 ---
 
-🔗 [Return to GitHub Profile](https://github.com/your-username) | [Connect on LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
+🔗 [Return to GitHub Profile](https://github.com/Amahie24) | [Connect on LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
 
