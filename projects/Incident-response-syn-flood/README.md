@@ -1,4 +1,4 @@
-## 🛡️ Incident Response – SYN Flood Attack (DoS)
+# 🛡️ Incident Response – SYN Flood Attack (DoS)
 
 ## Objective
 This project simulates a real-world cybersecurity incident response involving a SYN flood attack that disrupted access to a travel agency’s web server. The goal was to identify the nature of the attack, analyze packet traffic using Wireshark, and report on the impact and mitigation steps taken.
