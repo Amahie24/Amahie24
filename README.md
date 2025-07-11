@@ -22,8 +22,9 @@ My journey in tech started with a passion for problem-solving and ethical comput
 
 | Skill | Associated Project |
 |-------|--------------------|
-|Security Auditing | [Internal Security Audit – Botium Toys]
-| Network Analysis | [DNS Traffic Analysis Incident Report] |
+| Security Auditing | [Internal Security Audit – Botium Toys]
+| Network Analysis | [DNS Traffic Analysis Incident Report] 
+| SYN Flood Attack | 
 
 ---
 
@@ -53,5 +54,10 @@ Conducted a simulated internal security audit for fictional company Botium Toys.
 [📄 View full project here](https://github.com/Amahie24/Amahie24/blob/main/projects/internal-security-audit/README.md)
 
 ---
+
+### Incident Response - SYN Flood Attack (DoS)
+**Course-Based Simulation**
+
+[View full project here](https://github.com/Amahie24/Amahie24/blob/main/projects/Incident-response-syn-flood/README.md)
 
 > ⚡ Let’s connect: I’m open to internships, entry-level roles, and collaborative security projects. Feel free to check out my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
