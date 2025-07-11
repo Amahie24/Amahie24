@@ -22,14 +22,14 @@ My journey in tech started with a passion for problem-solving and ethical comput
 
 | Skill | Associated Project |
 |-------|--------------------|
-| Security Auditing | [Internal Security Audit – Botium Toys]
-| Network Analysis | [DNS Traffic Analysis Incident Report] 
-| SYN Flood Attack | 
+| Security Auditing | Internal Security Audit – Botium Toys
+| Network Analysis | DNS Traffic Analysis Incident Report 
+| Incident Response | SYN Flood Attack (DoS)
 
 ---
 
 ## 🎓 Certifications
-- [Harvard Introduction to Cybersecurity](https://www.harvardonline.harvard.edu/course/cs50s-introduction-cybersecurity) *(Completed)*
+- [Harvard Introduction to Cybersecurity](https://www.harvardonline.harvard.edu/course/cs50s-introduction-cybersecurity)
 - [Google Cybersecurity Certificate (Coursera)](https://grow.google/certificates/cybersecurity/) *(In Progress)*
 - [CodePath Introduction to Cybersecurity](https://www.codepath.org/courses/cybersecurity) *(In Progress)*
 
@@ -55,9 +55,12 @@ Conducted a simulated internal security audit for fictional company Botium Toys.
 
 ---
 
-### Incident Response - SYN Flood Attack (DoS)
+### 🚨 Incident Response - SYN Flood Attack (DoS)
 **Course-Based Simulation**
 
+Investigated a SYN flood DoS attack targeting a travel agency web server. Captured TCP packet logs with Wireshark, identified attack patterns, and wrote an incident response report outlining impact and mitigation strategies.  
 [View full project here](https://github.com/Amahie24/Amahie24/blob/main/projects/Incident-response-syn-flood/README.md)
+
+---
 
 > ⚡ Let’s connect: I’m open to internships, entry-level roles, and collaborative security projects. Feel free to check out my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
