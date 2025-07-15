@@ -28,7 +28,7 @@ This project simulates a real-world cybersecurity incident response involving an
 ### Step 1: Alert Received and Initial Impact  
 All internal network services became unresponsive for approximately two hours.  
 An investigation revealed a flood of incoming **ICMP echo requests** overwhelming the network.  
-📄 [ICMP Flood Incident Report (PDF)](./ICMP-Flood-Incident-Report.pdf)
+📄 [ICMP Flood Incident Report (PDF)](https://github.com/Amahie24/Amahie24/blob/main/projects/ICMP%20Flood%20DDoS%20Incident%20Report/Incident%20report%20analysis.pdf)
 
 ---
 
