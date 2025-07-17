@@ -62,7 +62,8 @@ Conducted a simulated internal security audit for fictional company Botium Toys.
 [📄 View full project here](https://github.com/Amahie24/Amahie24/blob/main/projects/Incident-response-syn-flood/README.md)
 
 2. Detected and analyzed an ICMP flood DDoS attack disrupting network availability. Used Wireshark to capture and examine ICMP packet behavior, identified the source of the flood, and produced an incident response report with mitigation strategies and lessons learned.
-[📄 View full project here[()
+   
+    [📄 View full project here](https://github.com/Amahie24/Amahie24/tree/main/projects/ICMP%20Flood%20DDoS%20Incident%20Report)
 
 
 ---
