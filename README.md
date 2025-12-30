@@ -31,17 +31,14 @@ My journey in tech started with a passion for problem-solving and ethical comput
 
 ## 🎓 Certifications
 
-- **CodePath Introduction to Cybersecurity**
-  🔗 [View Program](https://www.codepath.org/courses/cybersecurity)  
-  🔗 [View Certificate](https://github.com/Amahie24/Amahie24/blob/main/certificates/Amahie%20Lewis%20codepath%20certificate.pdf)
+## 🎓 Certifications
 
-- **Harvard Introduction to Cybersecurity**  
-  🔗 [View Program](https://certificates.harvard.edu/XXXXX)
-  🔗[View Certificate](https://github.com/Amahie24/Amahie24/blob/main/certificates/CS50%20Cybersecurity%20-%20Copy.pdf)
+| Certificate | Program | Verification |
+|------------|--------|--------------|
+| CodePath Introduction to Cybersecurity | [View Program](https://www.codepath.org/courses/cybersecurity) | View Certificate |
+| Harvard Introduction to Cybersecurity | [View Program](https://www.harvardonline.harvard.edu/course/cs50s-introduction-cybersecurity) | [View Certificate](YOUR_HARVARD_LINK) |
+| Google Cybersecurity Certificate (Coursera) *(In Progress)* | [View Program](https://www.coursera.org/professional-certificates/google-cybersecurity) | — |
 
-- **Google Cybersecurity Certificate (Coursera)** *(In Progress)*  
-  🔗 [View Program](https://www.coursera.org/professional-certificates/google-cybersecurity)
-  🔗[View Certificate]
 
 ---
 
