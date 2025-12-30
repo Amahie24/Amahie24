@@ -82,7 +82,7 @@ Used SQL queries with filtering operators (**WHERE, AND, OR, NOT, LIKE**) to inv
 
   
 
-[📄 View_SQL_Security_Investigation_Report(PDF)]([https://github.com/Amahie24/sql-security-investigation](https://github.com/Amahie24/Amahie24/blob/main/projects/sql-security-investigation/SQL_Security_Investigation.pdf))
+[📄 View SQL Security Investigation Report(PDF)](https://github.com/Amahie24/Amahie24/blob/main/projects/sql-security-investigation/SQL_Security_Investigation.pdf)
 
 
 > ⚡ Let’s connect: I’m open to internships, entry-level roles, and collaborative security projects. Feel free to check out my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
