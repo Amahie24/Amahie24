@@ -30,9 +30,16 @@ My journey in tech started with a passion for problem-solving and ethical comput
 ---
 
 ## 🎓 Certifications
-- [Harvard Introduction to Cybersecurity](https://www.harvardonline.harvard.edu/course/cs50s-introduction-cybersecurity)
-- [Google Cybersecurity Certificate (Coursera)](https://grow.google/certificates/cybersecurity/) *(In Progress)*
-- [CodePath Introduction to Cybersecurity](https://www.codepath.org/courses/cybersecurity) 
+
+- **Harvard Introduction to Cybersecurity**  
+  🔗 [View Certificate](https://certificates.harvard.edu/XXXXX)
+
+- **Google Cybersecurity Certificate (Coursera)** *(In Progress)*  
+  🔗 [View Program](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+- **CodePath Introduction to Cybersecurity** *(In Progress)*  
+  🔗 [View Program](https://www.codepath.org/courses/cybersecurity)
+
 
 ---
 
