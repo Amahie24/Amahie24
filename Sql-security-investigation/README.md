@@ -1,1 +1,0 @@
-# SQL Security Investigation
