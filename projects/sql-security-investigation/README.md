@@ -1,2 +1,2 @@
 # SQL Security Investigation
-[Apply FIlters to SQL Quesries](sql-security-investigation.pdf)
+[Apply FIlters to SQL Queries](sql-security-investigation.pdf)
