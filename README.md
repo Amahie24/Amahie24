@@ -81,7 +81,7 @@ Used SQL queries with filtering operators (**WHERE, AND, OR, NOT, LIKE**) to inv
 - Department-based employee filtering (Marketing, Finance, Sales, non-IT)
 - 
 
-[📄 View full project here](https://github.com/Amahie24/sql-security-investigation)
+[📄 View full project here](https://github.com/Amahie24/sql-security-investigation/README.md)
 
 
 > ⚡ Let’s connect: I’m open to internships, entry-level roles, and collaborative security projects. Feel free to check out my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
