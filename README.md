@@ -25,6 +25,7 @@ My journey in tech started with a passion for problem-solving and ethical comput
 | Security Auditing | Internal Security Audit – Botium Toys
 | Network Analysis | DNS Traffic Analysis Incident Report 
 | Incident Response | SYN Flood Attack (DoS), ICMP Flood Attack (DDoS)
+| SQL Filtering & Analysis | SQL Security Investigation (Login & Employee Data) |
 
 ---
 
@@ -67,6 +68,20 @@ Conducted a simulated internal security audit for fictional company Botium Toys.
 
 
 ---
+
+### 🗄️ SQL Security Investigation – Login & Employee Data  
+**Course-Based Simulation**
+
+Used SQL queries with filtering operators (**WHERE, AND, OR, NOT, LIKE**) to investigate potential security issues within organizational datasets. Analyzed login attempt records to identify suspicious activity such as after-hours failed logins, access attempts from outside approved locations, and logins on specific dates. Cross-referenced results with employee department and office data to isolate affected users and machines, supporting incident investigation and reporting.
+
+**Key Focus Areas:**
+- After-hours failed login attempts  
+- Login attempts on specific dates  
+- Login attempts outside of Mexico  
+- Department-based employee filtering (Marketing, Finance, Sales, non-IT)
+- 
+
+[📄 View full project here](https://github.com/Amahie24/sql-security-investigation)
 
 
 > ⚡ Let’s connect: I’m open to internships, entry-level roles, and collaborative security projects. Feel free to check out my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/amahie-lewis-2a1288292/)
